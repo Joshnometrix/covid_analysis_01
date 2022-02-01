@@ -1,7 +1,8 @@
 
 /*
-Covid 19 Data Analysis 
-Skills used: Joins, CTE's, Temp Tables, Aggregate Functions, Views, Converting Data Types
+This is an analysis on Covid-19, a report analysis on infected, death and vaccination as at January 17, 2022
+
+Skills used: Joins, CTE, Temp Tables, Aggregate Functions, Views, Converting Data Types e.t.c
 */
 
 --Showing all our informations from covid_death table
